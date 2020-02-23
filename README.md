@@ -11,6 +11,7 @@ This is what is looks like in action:
 
 # Getting Started
 Clone and Make:
+
 ```git clone https://github.com/AidanSully/Corewar/ && Corewar && make && make clean```
 
 Launch program without params to get help:
