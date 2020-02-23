@@ -11,15 +11,15 @@ This is what is looks like in action:
 
 # Getting Started
 Clone and Make:
-git clone https://github.com/AidanSully/Corewar/ && Corewar && make && make clean
+```git clone https://github.com/AidanSully/Corewar/ && Corewar && make && make clean```
 
 Launch program without params to get help:
 
-./corewar [-dump nbr_cycles] [[-n number] champion1.cor] [champion2.cor] [champion3.cor] ...
+```./corewar [-dump nbr_cycles] [[-n number] champion1.cor] [champion2.cor] [champion3.cor] ...
 -dump <num> : Dump memory (32 octets per line) after <num> cycles and exit
 -v : Run visualizer
 -n <num> : Set <num> of the next player
 Example:
-./corewar -v champions/bee_gees.cor champions/zork.cor champions/bigzork.cor champions/helltrain.cor
+./corewar -v champions/bee_gees.cor champions/zork.cor champions/bigzork.cor champions/helltrain.cor```
 
 You can use champions with extantion .cor from champions folder. Or you free to write your own champions and run them on this Virtual Machine. To write champion you need to use pseudo assambly programming lanquage which has name Redcode. Than compile this Redcode warrior to binary with extention .cor.
