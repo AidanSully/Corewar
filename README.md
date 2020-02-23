@@ -21,7 +21,7 @@ Launch program without params to get help:
 -v : Run visualizer
 -n <num> : Set <num> of the next player
 Example:
-./corewar -v champions/bee_gees.cor champions/zork.cor champions/bigzork.cor champions/helltrain.cor```
+./corewar -v champions/bee_gees.cor champions/zork.cor champions/bigzork.cor champions/helltrain.cor
 
 You can use champions with extention .cor from champions folder.
 You can compile .s files with the asm
