@@ -6,7 +6,9 @@ This inspired A. K. Dewdney to coin the idea for Core War.
 The idea was simple. You compete by designing viruses to overtake a computer. You win by protecting your own program and overwriting your opponent's programs. This is all happening on a virtual computer. Think, a simple computer within your computer.
 
 This is what is looks like in action: 
+
 ![](cw_vis.gif)
+
 # Getting Started
 Clone and Make:
 git clone https://github.com/AidanSully/Corewar/ && Corewar && make && make clean
