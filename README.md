@@ -23,4 +23,6 @@ Launch program without params to get help:
 Example:
 ./corewar -v champions/bee_gees.cor champions/zork.cor champions/bigzork.cor champions/helltrain.cor```
 
-You can use champions with extantion .cor from champions folder. Or you free to write your own champions and run them on this Virtual Machine. To write champion you need to use pseudo assambly programming lanquage which has name Redcode. Than compile this Redcode warrior to binary with extention .cor.
+```You can use champions with extention .cor from champions folder.
+You can compile .s files with the asm
+You can dissamble .cor files with the dsm```
